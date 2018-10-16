@@ -4,7 +4,7 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
-    "start": "gulp critical"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
