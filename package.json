@@ -1,0 +1,16 @@
+{
+  "name": "gulp-critical-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "critical": "^1.3.4",
+    "gulp": "^3.9.1"
+  }
+}
