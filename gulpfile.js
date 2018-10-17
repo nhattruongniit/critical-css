@@ -5,7 +5,7 @@ gulp.task('critical', function() {
   critical.generate({
     inline: true,
     src: 'index.html',
-    css: './css/style.min.css',
+    css: './static/css/style.min.css',
     dest: './index-critical.html',
     width: 1920,
     height: 800,
